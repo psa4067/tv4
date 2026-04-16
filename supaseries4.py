@@ -24,7 +24,7 @@ def run_full_season_github_action(driver: Driver, data=None):
     base_domain = "https://tv3.nontondrama.my"
     
     # --- CONFIG GITHUB ACTION ---
-    TARGET_YEARS = [2024, 2023]
+    TARGET_YEARS = [2020, 2019]
     START_PAGE = 1 # Set ke 1 untuk auto-run rutin, atau sesuaikan jika ingin catch-up data lama
     # ---------------------------
 
